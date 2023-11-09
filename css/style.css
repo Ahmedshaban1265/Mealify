@@ -536,9 +536,11 @@
     margin-bottom: 20px;
     padding-left: 10px;
 }
-#contact .container .contact-form input:focus
+#contact .container .contact-form input:focus,
+#contact .container .contact-form .txt:focus
 {
     border:#000 solid;
+    outline: none;
 
 }
 #contact .container .contact-form .input-group {
