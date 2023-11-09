@@ -670,6 +670,10 @@
     padding: 10px;
     width: 75%;
 }
+#foot .container .foot-info .subscribe input:focus{
+    border: #000 solid;
+    outline: none;
+}
 
 #foot .container .foot-info .subscribe button {
     background-color: #CE1212;
